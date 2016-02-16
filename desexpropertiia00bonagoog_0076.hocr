@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./desexpropertiia00bonagoog_0076.png"; bbox 0 0 3398 5468; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 603 2017 1260 2108">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 603 2017 1260 2108">
+     <span class='ocr_line' id='line_1_1' title="bbox 603 2017 1260 2108; baseline -0.005 -1"><span class='ocrx_word' id='word_1_1' title='bbox 603 2022 605 2027; x_wconf 74' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 658 2022 938 2108; x_wconf 81' lang='lat' dir='ltr'>CAPUTV</span> <span class='ocrx_word' id='word_1_3' title='bbox 990 2066 992 2072; x_wconf 57' lang='lat'>&gt;</span> <span class='ocrx_word' id='word_1_4' title='bbox 1258 2017 1260 2022; x_wconf 73' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 195 2608 1456 2739">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 195 2608 1456 2739">
+     <span class='ocr_line' id='line_1_2' title="bbox 195 2608 1456 2739; baseline 0.001 -4"><span class='ocrx_word' id='word_1_5' title='bbox 195 2663 199 2671; x_wconf 94' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 439 2610 544 2735; x_wconf 87' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_7' title='bbox 602 2608 1237 2739; x_wconf 77' lang='lat' dir='ltr'>INVENTIONE</span> <span class='ocrx_word' id='word_1_8' title='bbox 1454 2708 1456 2715; x_wconf 77' lang='lat'><em>-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1704 5468">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1704 5468">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1704 5468; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1704 5468; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
